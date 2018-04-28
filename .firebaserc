@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "default": "sorteio-1234"
+  }
+}
